@@ -1,3 +1,3 @@
 # demo
 This is my first Git repository.
-Author - Parth.
+<br> Author - Parth.
